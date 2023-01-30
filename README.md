@@ -1199,6 +1199,7 @@ Testing / quality of software goes beyond traditional activities of pre-release 
   <summary>Stackoverflow</summary>
 
 #### Blogs & Articles (& stackoverflow questions about stackoverflow obviously! :) )
+* How Stack Overflow Used mabl for Automation to Test Complex Applications](https://www.mabl.com/blog/how-stack-overflow-used-automation-to-test-complex-applications-mabl)
 * [Which tools and libraries are used for testing by StackOverflow developers?](https://meta.stackexchange.com/questions/263773/which-tools-and-libraries-are-used-for-testing-by-stackoverflow-developers)
 * [How TDD-oriented is the SE team?](https://meta.stackexchange.com/questions/204249/how-tdd-oriented-is-the-se-team)
 * [Does Stack Overflow have automated tests?](https://meta.stackexchange.com/questions/33761/does-stack-overflow-have-automated-tests)
